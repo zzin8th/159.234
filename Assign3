@@ -1,0 +1,9 @@
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <stdlib.h>
+using namespace std;
+
+class Employee{
+private:
+    string ID_,firstName_,lastName_;
